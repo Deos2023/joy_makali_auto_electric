@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white ">
       <Head>
-        <title>Joy Ma Kali Auto Electric - Authorized Exide Battery Dealer</title>
+        <title>Joy Ma Kali Auto Electric - Authorized  Battery Dealer</title>
         <meta name="description" content="Authorized Exide Battery and Inverter Dealer in Kolkata since 2001. Genuine products with warranty and expert installation." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -129,7 +129,7 @@ export default function Home() {
         <p className="text-sm text-red-600 uppercase tracking-wider">Our process</p>
         <h2 className="text-6xl font-bold fancy-font text-gray-900 mt-2 mb-4">EXCELLENCE IN POWER CARE</h2>
         <p className="text-gray-600 text-sm">
-          We pride ourselves on delivering top-tier service and genuine Exide products, ensuring long-lasting performance for all battery needs.
+          We pride ourselves on delivering top-tier service and genuine  products, ensuring long-lasting performance for all battery needs.
         </p>
       </div>
       </section>
@@ -148,7 +148,7 @@ export default function Home() {
                   About <span className="text-red-600">Joy Ma Kali Auto Electric</span>
                 </h2>
                 <p className="text-gray-600 mb-6">
-                  Established in 2001, Joy Ma Kali Auto Electric is a trusted name in Kolkata for genuine Exide batteries and 
+                  Established in 2001, Joy Ma Kali Auto Electric is a trusted name in Kolkata for genuine  batteries and 
                   inverter solutions. With over two decades of experience, we've served thousands of satisfied customers 
                   with reliable products and exceptional service.
                 </p>
@@ -158,7 +158,7 @@ export default function Home() {
                       <LuShield className="text-red-600" />
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-800">Authorized Exide Dealer</h3>
+                      <h3 className="font-bold text-gray-800">Authorized Battery Dealer</h3>
                       <p className="text-gray-600 text-sm">Genuine products with manufacturer warranty</p>
                     </div>
                   </div>
@@ -199,7 +199,7 @@ export default function Home() {
                   className="w-full h-auto"
                 />
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
-                  <h3 className="text-white text-xl font-bold">Our Exide Care Shop</h3>
+                  <h3 className="text-white text-xl font-bold">Our Battery Care Shop</h3>
                   <p className="text-red-200 text-sm">17A Hemchandra Naskar Road, Kolkata - 700010</p>
                 </div>
               </motion.div>
@@ -288,7 +288,7 @@ export default function Home() {
               Our <span className="text-red-600 ">Product Range</span>
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              We offer a comprehensive range of Exide batteries for all your power needs
+              We offer a comprehensive range of  batteries for all your power needs
             </p>
           </div>
           
@@ -358,7 +358,7 @@ export default function Home() {
             {[
               {
                 title: "Genuine Products",
-                desc: "100% authentic Exide batteries with manufacturer warranty",
+                desc: "100% authentic  batteries with manufacturer warranty",
                 icon: <LuShield className="text-red-600" />
               },
               {
@@ -514,7 +514,7 @@ export default function Home() {
               {
                 name: "Amit Kumar",
                 rating: 4,
-                comment: "Trusted Exide dealer in Kolkata. I've been buying batteries from them for my fleet of vehicles for years.",
+                comment: "Trusted Battery dealer in Kolkata. I've been buying batteries from them for my fleet of vehicles for years.",
                 location: "Barrackpore"
               }
             ].map((testimonial, index) => (
@@ -576,7 +576,7 @@ export default function Home() {
               {
                 step: "2",
                 title: "Selection",
-                desc: "We help you choose the right Exide battery for your needs"
+                desc: "We help you choose the right  battery for your needs"
               },
               {
                 step: "3",
@@ -843,7 +843,7 @@ Please get back to me.`;
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-5xl md:text-6xl  fancy-font mb-6">Need a New Battery?</h2>
           <p className="text-xl text-red-100 mb-8 max-w-2xl mx-auto">
-            Contact us today for expert advice and the best deals on genuine Exide batteries
+            Contact us today for expert advice and the best deals on genuine  batteries
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
