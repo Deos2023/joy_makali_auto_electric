@@ -347,7 +347,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-5xl md:text-6xl font-bold fancy-font text-gray-900 mb-4">
-              Why Choose <span className="text-red-600 ">Our Exide Care Shop</span>
+              Why Choose <span className="text-red-600 ">Us</span>
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               We go beyond just selling batteries - we provide complete power solutions
