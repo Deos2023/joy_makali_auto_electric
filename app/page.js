@@ -52,6 +52,9 @@ export default function Home() {
     className="relative z-20 px-8 md:px-16 text-left max-w-2xl"
   >
     <p className="text-white uppercase tracking-widest mb-2 font-medium">
+      Call : 9830449015
+    </p>
+    <p className="text-white uppercase tracking-widest mb-2 font-medium">
       Make your ride better than new
     </p>
     <h1 className="text-7xl md:text-9xl  text-white leading-tight tracking-tight fancy-font">
@@ -646,7 +649,7 @@ Message: ${message}
 Please get back to me.`;
 
     const encodedMessage = encodeURIComponent(whatsappMessage);
-    const whatsappNumber = "9830320876"; // change to your actual WhatsApp number
+    const whatsappNumber = "9830449015"; // change to your actual WhatsApp number
 
     window.open(`https://wa.me/91${whatsappNumber}?text=${encodedMessage}`, "_blank");
   }}
@@ -745,8 +748,8 @@ Please get back to me.`;
                     <div>
                       <h4 className="text-lg font-bold text-gray-800 mb-2">Phone Numbers</h4>
                       <div className="space-y-1">
-                        <a href="tel:9830320876" className="block text-gray-600 hover:text-red-600 transition">9830320876</a>
-                        <a href="tel:9876543210" className="block text-gray-600 hover:text-red-600 transition">9830449015</a>
+                        {/* <a href="tel:9830320876" className="block text-gray-600 hover:text-red-600 transition">9830320876</a> */}
+                        <a href="tel:9830449015" className="block text-gray-600 hover:text-red-600 transition">9830449015</a>
                       </div>
                     </div>
                   </div>
@@ -844,11 +847,11 @@ Please get back to me.`;
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
-              href="tel:9830320876" 
+              href="tel:9830449015" 
               className="bg-white hover:bg-gray-100 text-red-600 px-8 py-4 rounded-lg font-medium text-lg shadow-lg transition duration-300 flex items-center justify-center"
             >
               <LuPhone className="mr-2" />
-              Call: 9830320876
+              Call: 9830449015
             </a>
             <a 
               href="https://www.google.com/maps/place/Exide+Care+-+Joy+Makali+Auto+Electric/@22.564451,88.3927307,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02767d26d0cc6d:0x44d4fc72a2e47b4a!8m2!3d22.564451!4d88.395311!16s%2Fg%2F1v3gqb2p?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D" 

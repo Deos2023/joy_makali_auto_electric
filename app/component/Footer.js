@@ -81,7 +81,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Phone className="w-5 h-5 mt-1 text-red-400" />
                 <div>
-                  <p className="text-gray-300">9830320876</p>
+                  {/* <p className="text-gray-300">9830320876</p> */}
                   <p className="text-gray-300">9830449015</p>
                 </div>
               </li>

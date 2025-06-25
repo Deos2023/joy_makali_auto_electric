@@ -10,7 +10,7 @@ const QuickBar = () => {
             <div className="flex items-center">
               <LuPhone className="mr-2" />
               <span className="font-medium">Emergency Support:</span>
-              <a href="tel:9830320876" className="ml-2 hover:underline">9830320876</a>
+              <a href="tel:9830449015" className="ml-2 hover:underline">9830449015</a>
             </div>
             <div className="flex items-center">
               <LuClock className="mr-2" />

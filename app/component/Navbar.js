@@ -20,7 +20,7 @@ const Navbar = () => {
       <div className="bg-red-600 text-white text-center py-2 px-4 text-sm md:text-base">
         <p>
           🚗 Authorized Exide Care Shop | ⏳ Serving Kolkata since 2001 | 📞 Call:
-          9830320876 / 9830449015
+          9830449015
         </p>
       </div>
 
