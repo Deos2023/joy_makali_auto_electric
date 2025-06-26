@@ -200,7 +200,8 @@ export default function Home() {
                 />
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
                   <h3 className="text-white text-xl font-bold">Our Battery Care Shop</h3>
-                  <p className="text-red-200 text-sm">17A Hemchandra Naskar Road, Kolkata - 700010</p>
+                  <p className="text-red-200 text-sm">65, Suren Sarkar Road Subhas Sarobar Park Phool Bagan Beleghata 
+Kolkata 700010</p>
                 </div>
               </motion.div>
             </div>
@@ -774,9 +775,9 @@ Please get back to me.`;
                     <div>
                       <h4 className="text-lg font-bold text-gray-800 mb-2">Our Location</h4>
                       <address className="not-italic text-gray-600">
-                        17A Hemchandra Naskar Road ,<br />
-                        Near Beliaghata Apollo Clinic Opposite ICIC Bank,
-                        Kolkata - 700010<br />
+                        65, Suren Sarkar Road ,<br />
+                        Subhas Sarobar Park Phool Bagan Beleghata 
+Kolkata- 700010<br />
                         West Bengal, India
                       </address>
                     </div>
@@ -824,9 +825,9 @@ Please get back to me.`;
             className="rounded-xl overflow-hidden shadow-xl"
           >
 
-           
+
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.3916407250913!2d88.39531099999999!3d22.564451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02767d26d0cc6d%3A0x44d4fc72a2e47b4a!2sExide%20Care%20-%20Joy%20Makali%20Auto%20Electric!5e0!3m2!1sen!2sin!4v1747659269609!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3684.3989466680086!2d88.39823977530024!3d22.564177579497617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDMzJzUxLjAiTiA4OMKwMjQnMDIuOSJF!5e0!3m2!1sen!2sin!4v1750922933394!5m2!1sen!2sin"
               width="100%"
               height="450"
               style={{ border: 0 }}
