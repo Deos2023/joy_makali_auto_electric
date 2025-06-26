@@ -92,9 +92,8 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-1 text-red-400" />
                 <span className="text-gray-300">
-               17A Hemchandra Naskar Road , Near Beliaghata Apollo Clinic Opposite ICIC Bank ,
-Kolkata - 700010
-West Bengal, India
+              65, Suren Sarkar Road Subhas Sarobar Park Phool Bagan Beleghata 
+Kolkata 700010
                 </span>
               </li>
               
