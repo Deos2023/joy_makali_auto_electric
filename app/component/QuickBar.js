@@ -18,8 +18,8 @@ const QuickBar = () => {
             </div>
             <div className="flex items-center">
               <LuMapPin className="mr-2" />
-              <span>Subhas Sarobar Park Phool Bagan Beleghata 
-Kolkata - 700010</span>
+              <span>65, Suren Sarkar Road Subhas Sarobar Park Phool Bagan Beleghata 
+Kolkata 700010</span>
             </div>
           </div>
         </div>
